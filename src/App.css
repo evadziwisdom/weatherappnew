@@ -37,3 +37,32 @@
   margin-right: 16px;
   font-size: 17px;
 }
+
+.signinpage {
+  background-color: #2196F3;
+  border-radius: 15px;
+  height: 250px;
+  width: 260px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.signinpage h3 {
+  text-align: center;
+  padding-top: 15px; 
+}
+
+.signinpage label {
+  padding-left: 25px;
+  font-size: large;
+}
+
+.signinpage input {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+.signinpage button {
+  float: right;
+  margin-right: 50px;
+}
