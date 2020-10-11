@@ -58,6 +58,7 @@
 }
 
 .signinpage input {
+  margin-top: 10px;
   margin-left: 50px;
   margin-bottom: 20px;
 }
@@ -65,4 +66,13 @@
 .signinpage button {
   float: right;
   margin-right: 50px;
+}
+
+.Title {
+  padding-top: 50px;
+  color: whitesmoke;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Georgia', serif;
 }
